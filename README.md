@@ -90,7 +90,3 @@
 <a href="https://www.hackerrank.com/piyush_rp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="piyush_rp" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nuk3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nuk3" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=p-rp&show_icons=true&locale=en&layout=compact" alt="p-rp" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=p-rp&show_icons=true&locale=en" alt="p-rp" /></p>
