@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush</h1>
-<h3 align="center">A passionate full-stack developer in the making...</h3>
+<h3 align="center">A passionate backend developer in the making...</h3>
 
 - 📫 How to reach me **piyush.rp22@gmail.com**
 
